@@ -1,0 +1,13 @@
+# Excel files
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xltx
+*.xltm
+
+# CSV files
+*.csv
+
+# Config file
+config.py
